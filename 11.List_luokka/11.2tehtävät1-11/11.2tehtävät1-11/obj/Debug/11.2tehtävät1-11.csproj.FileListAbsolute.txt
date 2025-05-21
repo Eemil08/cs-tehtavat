@@ -1,0 +1,7 @@
+C:\Users\179910\OneDrive - Salon seudun koulutuskuntayhtymä\c#\11.List_luokka\11.2tehtävät1-11\11.2tehtävät1-11\bin\Debug\11.2tehtävät1-11.exe.config
+C:\Users\179910\OneDrive - Salon seudun koulutuskuntayhtymä\c#\11.List_luokka\11.2tehtävät1-11\11.2tehtävät1-11\bin\Debug\11.2tehtävät1-11.exe
+C:\Users\179910\OneDrive - Salon seudun koulutuskuntayhtymä\c#\11.List_luokka\11.2tehtävät1-11\11.2tehtävät1-11\bin\Debug\11.2tehtävät1-11.pdb
+C:\Users\179910\OneDrive - Salon seudun koulutuskuntayhtymä\c#\11.List_luokka\11.2tehtävät1-11\11.2tehtävät1-11\obj\Debug\11.2tehtävät1-11.csproj.AssemblyReference.cache
+C:\Users\179910\OneDrive - Salon seudun koulutuskuntayhtymä\c#\11.List_luokka\11.2tehtävät1-11\11.2tehtävät1-11\obj\Debug\11.2tehtävät1-11.csproj.CoreCompileInputs.cache
+C:\Users\179910\OneDrive - Salon seudun koulutuskuntayhtymä\c#\11.List_luokka\11.2tehtävät1-11\11.2tehtävät1-11\obj\Debug\11.2tehtävät1-11.exe
+C:\Users\179910\OneDrive - Salon seudun koulutuskuntayhtymä\c#\11.List_luokka\11.2tehtävät1-11\11.2tehtävät1-11\obj\Debug\11.2tehtävät1-11.pdb

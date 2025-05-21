@@ -1,0 +1,14 @@
+C:\Users\179910\OneDrive - Salon seudun koulutuskuntayhtymä\c#\9.DoWhile_silmukka\10.3tehtävät1-17\10.3tehtävät1-17\bin\Debug\10.3tehtävät1-17.exe.config
+C:\Users\179910\OneDrive - Salon seudun koulutuskuntayhtymä\c#\9.DoWhile_silmukka\10.3tehtävät1-17\10.3tehtävät1-17\bin\Debug\10.3tehtävät1-17.exe
+C:\Users\179910\OneDrive - Salon seudun koulutuskuntayhtymä\c#\9.DoWhile_silmukka\10.3tehtävät1-17\10.3tehtävät1-17\bin\Debug\10.3tehtävät1-17.pdb
+C:\Users\179910\OneDrive - Salon seudun koulutuskuntayhtymä\c#\9.DoWhile_silmukka\10.3tehtävät1-17\10.3tehtävät1-17\obj\Debug\10.3tehtävät1-17.csproj.AssemblyReference.cache
+C:\Users\179910\OneDrive - Salon seudun koulutuskuntayhtymä\c#\9.DoWhile_silmukka\10.3tehtävät1-17\10.3tehtävät1-17\obj\Debug\10.3tehtävät1-17.csproj.CoreCompileInputs.cache
+C:\Users\179910\OneDrive - Salon seudun koulutuskuntayhtymä\c#\9.DoWhile_silmukka\10.3tehtävät1-17\10.3tehtävät1-17\obj\Debug\10.3tehtävät1-17.exe
+C:\Users\179910\OneDrive - Salon seudun koulutuskuntayhtymä\c#\9.DoWhile_silmukka\10.3tehtävät1-17\10.3tehtävät1-17\obj\Debug\10.3tehtävät1-17.pdb
+C:\Users\179910\OneDrive - Salon seudun koulutuskuntayhtymä\c#\10.ForSilmukat_ja_taulukot\10.3tehtävät1-17\10.3tehtävät1-17\bin\Debug\10.3tehtävät1-17.exe.config
+C:\Users\179910\OneDrive - Salon seudun koulutuskuntayhtymä\c#\10.ForSilmukat_ja_taulukot\10.3tehtävät1-17\10.3tehtävät1-17\bin\Debug\10.3tehtävät1-17.exe
+C:\Users\179910\OneDrive - Salon seudun koulutuskuntayhtymä\c#\10.ForSilmukat_ja_taulukot\10.3tehtävät1-17\10.3tehtävät1-17\bin\Debug\10.3tehtävät1-17.pdb
+C:\Users\179910\OneDrive - Salon seudun koulutuskuntayhtymä\c#\10.ForSilmukat_ja_taulukot\10.3tehtävät1-17\10.3tehtävät1-17\obj\Debug\10.3tehtävät1-17.csproj.AssemblyReference.cache
+C:\Users\179910\OneDrive - Salon seudun koulutuskuntayhtymä\c#\10.ForSilmukat_ja_taulukot\10.3tehtävät1-17\10.3tehtävät1-17\obj\Debug\10.3tehtävät1-17.csproj.CoreCompileInputs.cache
+C:\Users\179910\OneDrive - Salon seudun koulutuskuntayhtymä\c#\10.ForSilmukat_ja_taulukot\10.3tehtävät1-17\10.3tehtävät1-17\obj\Debug\10.3tehtävät1-17.exe
+C:\Users\179910\OneDrive - Salon seudun koulutuskuntayhtymä\c#\10.ForSilmukat_ja_taulukot\10.3tehtävät1-17\10.3tehtävät1-17\obj\Debug\10.3tehtävät1-17.pdb

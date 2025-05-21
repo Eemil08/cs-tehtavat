@@ -1,0 +1,7 @@
+C:\Users\179910\OneDrive - Salon seudun koulutuskuntayhtymä\c#\13.tiedostojen_lukeminen_ja_kirjoittaminen\13.2tehtävät1-8\13.2tehtävät1-8\bin\Debug\13.2tehtävät1-8.exe.config
+C:\Users\179910\OneDrive - Salon seudun koulutuskuntayhtymä\c#\13.tiedostojen_lukeminen_ja_kirjoittaminen\13.2tehtävät1-8\13.2tehtävät1-8\bin\Debug\13.2tehtävät1-8.exe
+C:\Users\179910\OneDrive - Salon seudun koulutuskuntayhtymä\c#\13.tiedostojen_lukeminen_ja_kirjoittaminen\13.2tehtävät1-8\13.2tehtävät1-8\bin\Debug\13.2tehtävät1-8.pdb
+C:\Users\179910\OneDrive - Salon seudun koulutuskuntayhtymä\c#\13.tiedostojen_lukeminen_ja_kirjoittaminen\13.2tehtävät1-8\13.2tehtävät1-8\obj\Debug\13.2tehtävät1-8.csproj.AssemblyReference.cache
+C:\Users\179910\OneDrive - Salon seudun koulutuskuntayhtymä\c#\13.tiedostojen_lukeminen_ja_kirjoittaminen\13.2tehtävät1-8\13.2tehtävät1-8\obj\Debug\13.2tehtävät1-8.csproj.CoreCompileInputs.cache
+C:\Users\179910\OneDrive - Salon seudun koulutuskuntayhtymä\c#\13.tiedostojen_lukeminen_ja_kirjoittaminen\13.2tehtävät1-8\13.2tehtävät1-8\obj\Debug\13.2tehtävät1-8.exe
+C:\Users\179910\OneDrive - Salon seudun koulutuskuntayhtymä\c#\13.tiedostojen_lukeminen_ja_kirjoittaminen\13.2tehtävät1-8\13.2tehtävät1-8\obj\Debug\13.2tehtävät1-8.pdb
