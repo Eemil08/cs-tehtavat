@@ -1,0 +1,7 @@
+C:\Users\179910\OneDrive - Salon seudun koulutuskuntayhtymä\c#\14.extra_tehtavia\14.1tehtavat1-8\14.1tehtavat1-8\bin\Debug\14.1tehtavat1-8.exe.config
+C:\Users\179910\OneDrive - Salon seudun koulutuskuntayhtymä\c#\14.extra_tehtavia\14.1tehtavat1-8\14.1tehtavat1-8\bin\Debug\14.1tehtavat1-8.exe
+C:\Users\179910\OneDrive - Salon seudun koulutuskuntayhtymä\c#\14.extra_tehtavia\14.1tehtavat1-8\14.1tehtavat1-8\bin\Debug\14.1tehtavat1-8.pdb
+C:\Users\179910\OneDrive - Salon seudun koulutuskuntayhtymä\c#\14.extra_tehtavia\14.1tehtavat1-8\14.1tehtavat1-8\obj\Debug\14.1tehtavat1-8.csproj.AssemblyReference.cache
+C:\Users\179910\OneDrive - Salon seudun koulutuskuntayhtymä\c#\14.extra_tehtavia\14.1tehtavat1-8\14.1tehtavat1-8\obj\Debug\14.1tehtavat1-8.csproj.CoreCompileInputs.cache
+C:\Users\179910\OneDrive - Salon seudun koulutuskuntayhtymä\c#\14.extra_tehtavia\14.1tehtavat1-8\14.1tehtavat1-8\obj\Debug\14.1tehtavat1-8.exe
+C:\Users\179910\OneDrive - Salon seudun koulutuskuntayhtymä\c#\14.extra_tehtavia\14.1tehtavat1-8\14.1tehtavat1-8\obj\Debug\14.1tehtavat1-8.pdb

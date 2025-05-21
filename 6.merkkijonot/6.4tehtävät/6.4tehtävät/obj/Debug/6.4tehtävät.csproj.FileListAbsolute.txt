@@ -1,0 +1,7 @@
+C:\Users\179910\OneDrive - Salon seudun koulutuskuntayhtymä\c#\6.merkkijonot\6.4tehtävät\6.4tehtävät\bin\Debug\6.4tehtävät.exe.config
+C:\Users\179910\OneDrive - Salon seudun koulutuskuntayhtymä\c#\6.merkkijonot\6.4tehtävät\6.4tehtävät\bin\Debug\6.4tehtävät.exe
+C:\Users\179910\OneDrive - Salon seudun koulutuskuntayhtymä\c#\6.merkkijonot\6.4tehtävät\6.4tehtävät\bin\Debug\6.4tehtävät.pdb
+C:\Users\179910\OneDrive - Salon seudun koulutuskuntayhtymä\c#\6.merkkijonot\6.4tehtävät\6.4tehtävät\obj\Debug\6.4tehtävät.csproj.AssemblyReference.cache
+C:\Users\179910\OneDrive - Salon seudun koulutuskuntayhtymä\c#\6.merkkijonot\6.4tehtävät\6.4tehtävät\obj\Debug\6.4tehtävät.csproj.CoreCompileInputs.cache
+C:\Users\179910\OneDrive - Salon seudun koulutuskuntayhtymä\c#\6.merkkijonot\6.4tehtävät\6.4tehtävät\obj\Debug\6.4tehtävät.exe
+C:\Users\179910\OneDrive - Salon seudun koulutuskuntayhtymä\c#\6.merkkijonot\6.4tehtävät\6.4tehtävät\obj\Debug\6.4tehtävät.pdb

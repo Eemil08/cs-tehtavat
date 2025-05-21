@@ -1,0 +1,7 @@
+C:\Users\179910\OneDrive - Salon seudun koulutuskuntayhtymä\c#\3.syotto_ja_tulostus\teht2\teht2\bin\Debug\teht2.exe.config
+C:\Users\179910\OneDrive - Salon seudun koulutuskuntayhtymä\c#\3.syotto_ja_tulostus\teht2\teht2\bin\Debug\teht2.exe
+C:\Users\179910\OneDrive - Salon seudun koulutuskuntayhtymä\c#\3.syotto_ja_tulostus\teht2\teht2\bin\Debug\teht2.pdb
+C:\Users\179910\OneDrive - Salon seudun koulutuskuntayhtymä\c#\3.syotto_ja_tulostus\teht2\teht2\obj\Debug\teht2.csproj.AssemblyReference.cache
+C:\Users\179910\OneDrive - Salon seudun koulutuskuntayhtymä\c#\3.syotto_ja_tulostus\teht2\teht2\obj\Debug\teht2.csproj.CoreCompileInputs.cache
+C:\Users\179910\OneDrive - Salon seudun koulutuskuntayhtymä\c#\3.syotto_ja_tulostus\teht2\teht2\obj\Debug\teht2.exe
+C:\Users\179910\OneDrive - Salon seudun koulutuskuntayhtymä\c#\3.syotto_ja_tulostus\teht2\teht2\obj\Debug\teht2.pdb

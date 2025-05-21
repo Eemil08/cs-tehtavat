@@ -1,0 +1,21 @@
+F:\koodit\7\7.3teht1-14\7.3teht1-14\bin\Debug\7.3teht1-14.exe.config
+F:\koodit\7\7.3teht1-14\7.3teht1-14\bin\Debug\7.3teht1-14.exe
+F:\koodit\7\7.3teht1-14\7.3teht1-14\bin\Debug\7.3teht1-14.pdb
+F:\koodit\7\7.3teht1-14\7.3teht1-14\obj\Debug\7.3teht1-14.csproj.AssemblyReference.cache
+F:\koodit\7\7.3teht1-14\7.3teht1-14\obj\Debug\7.3teht1-14.csproj.CoreCompileInputs.cache
+F:\koodit\7\7.3teht1-14\7.3teht1-14\obj\Debug\7.3teht1-14.exe
+F:\koodit\7\7.3teht1-14\7.3teht1-14\obj\Debug\7.3teht1-14.pdb
+F:\koodit\7.Joslauseet_ja_switchrakenne\7.3teht1-14\7.3teht1-14\bin\Debug\7.3teht1-14.exe.config
+F:\koodit\7.Joslauseet_ja_switchrakenne\7.3teht1-14\7.3teht1-14\bin\Debug\7.3teht1-14.exe
+F:\koodit\7.Joslauseet_ja_switchrakenne\7.3teht1-14\7.3teht1-14\bin\Debug\7.3teht1-14.pdb
+F:\koodit\7.Joslauseet_ja_switchrakenne\7.3teht1-14\7.3teht1-14\obj\Debug\7.3teht1-14.csproj.AssemblyReference.cache
+F:\koodit\7.Joslauseet_ja_switchrakenne\7.3teht1-14\7.3teht1-14\obj\Debug\7.3teht1-14.csproj.CoreCompileInputs.cache
+F:\koodit\7.Joslauseet_ja_switchrakenne\7.3teht1-14\7.3teht1-14\obj\Debug\7.3teht1-14.exe
+F:\koodit\7.Joslauseet_ja_switchrakenne\7.3teht1-14\7.3teht1-14\obj\Debug\7.3teht1-14.pdb
+C:\Users\179910\OneDrive - Salon seudun koulutuskuntayhtymä\c#\7.Joslauseet_ja_switchrakenne\7.3teht1-14\7.3teht1-14\bin\Debug\7.3teht1-14.exe.config
+C:\Users\179910\OneDrive - Salon seudun koulutuskuntayhtymä\c#\7.Joslauseet_ja_switchrakenne\7.3teht1-14\7.3teht1-14\bin\Debug\7.3teht1-14.exe
+C:\Users\179910\OneDrive - Salon seudun koulutuskuntayhtymä\c#\7.Joslauseet_ja_switchrakenne\7.3teht1-14\7.3teht1-14\bin\Debug\7.3teht1-14.pdb
+C:\Users\179910\OneDrive - Salon seudun koulutuskuntayhtymä\c#\7.Joslauseet_ja_switchrakenne\7.3teht1-14\7.3teht1-14\obj\Debug\7.3teht1-14.csproj.AssemblyReference.cache
+C:\Users\179910\OneDrive - Salon seudun koulutuskuntayhtymä\c#\7.Joslauseet_ja_switchrakenne\7.3teht1-14\7.3teht1-14\obj\Debug\7.3teht1-14.csproj.CoreCompileInputs.cache
+C:\Users\179910\OneDrive - Salon seudun koulutuskuntayhtymä\c#\7.Joslauseet_ja_switchrakenne\7.3teht1-14\7.3teht1-14\obj\Debug\7.3teht1-14.exe
+C:\Users\179910\OneDrive - Salon seudun koulutuskuntayhtymä\c#\7.Joslauseet_ja_switchrakenne\7.3teht1-14\7.3teht1-14\obj\Debug\7.3teht1-14.pdb

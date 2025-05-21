@@ -1,0 +1,7 @@
+C:\Users\179910\OneDrive - Salon seudun koulutuskuntayhtymä\c#\9.DoWhile_silmukka\9.2tehtävä1-2\9.2tehtävä1-2\bin\Debug\9.2tehtävä1-2.exe.config
+C:\Users\179910\OneDrive - Salon seudun koulutuskuntayhtymä\c#\9.DoWhile_silmukka\9.2tehtävä1-2\9.2tehtävä1-2\bin\Debug\9.2tehtävä1-2.exe
+C:\Users\179910\OneDrive - Salon seudun koulutuskuntayhtymä\c#\9.DoWhile_silmukka\9.2tehtävä1-2\9.2tehtävä1-2\bin\Debug\9.2tehtävä1-2.pdb
+C:\Users\179910\OneDrive - Salon seudun koulutuskuntayhtymä\c#\9.DoWhile_silmukka\9.2tehtävä1-2\9.2tehtävä1-2\obj\Debug\9.2tehtävä1-2.csproj.AssemblyReference.cache
+C:\Users\179910\OneDrive - Salon seudun koulutuskuntayhtymä\c#\9.DoWhile_silmukka\9.2tehtävä1-2\9.2tehtävä1-2\obj\Debug\9.2tehtävä1-2.csproj.CoreCompileInputs.cache
+C:\Users\179910\OneDrive - Salon seudun koulutuskuntayhtymä\c#\9.DoWhile_silmukka\9.2tehtävä1-2\9.2tehtävä1-2\obj\Debug\9.2tehtävä1-2.exe
+C:\Users\179910\OneDrive - Salon seudun koulutuskuntayhtymä\c#\9.DoWhile_silmukka\9.2tehtävä1-2\9.2tehtävä1-2\obj\Debug\9.2tehtävä1-2.pdb
